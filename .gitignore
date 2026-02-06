@@ -1,0 +1,5 @@
+*.md
+*.xml
+*.fm
+!CLAUDE.md
+!README.md

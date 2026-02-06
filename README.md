@@ -1,6 +1,10 @@
 # FileMaker Script Extraction Tool
 
-Extract and organize FileMaker Pro scripts from Database Design Reports (DDR) into individual, searchable files.
+Extract and organize FileMaker Pro scripts from Database Design Reports (DDR)
+into individual, searchable files.
+
+The script files are not re-usable in FileMaker, this is intended just as a
+reporting too to make them easier to review.
 
 ## Overview
 
